@@ -24,5 +24,5 @@ bu tarz yol parametrelerine erişmek için useParams kullanıyoruz
 
 bu parametrelerde useSearchParams kullanılır
 
-
-# YoutubeClone
+# Project Gif:
+<img src="./public/YoutubeClone.gif">
